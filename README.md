@@ -24,7 +24,13 @@ This heatmap elaborates the previous graph by further providing information abou
 
 The next visualzation shows the type of users, whether Subscribed or just Customers. It can be seen that majority of users are Subscibers which is very good. There are more number of Subscribed female riders thoughout the week than one-off customers. And for males, there is a massive difference between user types, e.g. for thursday, there are 21,034 customers and a whopping 259,316 subscribers. It shows it in demand and sustainable.
 
+<img width="397" alt="Types" src="https://user-images.githubusercontent.com/86980240/144362889-2310ae32-cd7e-400e-b4d3-94992b249522.png">
+
+
 The following bar graph shows the number of bikes that are used thoughout the day. It gives a glimpse of hours from 12 am - 11 pm. As it is seen earlier, 7 am - 9 am and then 5 pm - 7pm are the hours where highest number of bikes are used. From 1 am - 5 am, there is a minimum usage. This is where maintenance can take place.
+
+<img width="678" alt="Bike numbers" src="https://user-images.githubusercontent.com/86980240/144362910-c5f92366-bf91-4d6f-81fe-1365926df805.png">
+
 
 The following map shows the top starting locations in the NYC. It is seen those locations are quite close to each other meaning, it is either highly densed area or there are a lot of visitors who use bikes to explore areas.
 
