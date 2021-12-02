@@ -18,7 +18,7 @@ The next heatmap shows total number of trips through out the week with hour of s
 
 <img width="425" alt="Trips by weekday" src="https://user-images.githubusercontent.com/86980240/144358574-16e83408-ca86-4983-843c-a716c2225d9e.png">
 
-This heatmap elaborates the previous graph by further providing information about number of trips through out the week, per genders. It is seen again that most number of bikes are used between weekdays and around same time (as mentioned above). The highest number of users are Males, around three times more than Female users, when compared same start and stop times. 
+This heatmap elaborates by further providing information about number of trips through out the week, per genders. It is seen again that most number of bikes are used between weekdays and around same time (as mentioned above). The highest number of users are Males, around three times more than Female users, when compared same start and stop times. 
 
 <img width="728" alt="Trips per Gender" src="https://user-images.githubusercontent.com/86980240/144359123-69a0b366-ad16-48a3-913f-e20da4dfe771.png">
 
