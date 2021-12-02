@@ -10,7 +10,7 @@ This graph shows the length of time the bikes have been checked out by all rider
 
 <img width="555" alt="Checkout Times" src="https://user-images.githubusercontent.com/86980240/144357354-5e0f7937-ea28-404f-8aae-8994ad8651ea.png">
 
-The next graph shows the same checkout time length but as per different genders, Males, Females and Undisclosed. It is seen that most of users have been Males followed by females.
+The next graph shows the checkout time length but as per different genders, Males, Females and Undisclosed. It is seen that most of users have been Males followed by females.
 
 <img width="651" alt="Checkout_Users" src="https://user-images.githubusercontent.com/86980240/144358028-fecbee5b-2a46-46d8-a727-0a8b0841858d.png">
 
