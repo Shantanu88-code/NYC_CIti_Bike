@@ -44,6 +44,6 @@ This is a supporting bar graph that shows number of bikes used per gender with M
 # Summary:
 
 To summarize, it is safe to say that it will be a sustainable venture and safe to invest. The visualization will definitely impress investors as we see significant amout of users. Also, there is a majority of subscried users which provides a lot of stability and good source of profit. But again, this was for NYC and they are thinking to start the venture in Des Moines. There are a lot of differences of geography, traffic, loactions, population etc which they have to take into consideration. 
-With given dataset, we would perform further analysis to get more specific information. For example, we can create a map that shows top starting or ending locations as per hours of the day to figure out which locations are mostly used through out different hours of the day. Another would be adding a trip duration to the map that shows locations with total minutes of bikes usage.
+With given dataset, we would perform further analysis to get more specific information. For example, we can create a map that shows top starting or ending locations as per hours of the day to figure out which locations are mostly used through out different hours of the day. Another would be adding a trip duration to the map that shows locations with total minutes of bikes usage..
 
 [Link to dashboard](https://public.tableau.com/app/profile/shantanu4272/viz/NYC_CitiBike_Challenge_16377029547530/NumberofUsersGenderandCheckoutTImes?publish=yes)
